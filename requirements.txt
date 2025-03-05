@@ -1,4 +1,5 @@
 streamlit
 pandas
 fuzzywuzzy
-python-Levenshtein  # Optional: Speeds up fuzzywuzzy, recommended
+python-Levenshtein
+st-paywall
